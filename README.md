@@ -12,7 +12,7 @@ Canvas AI Backend is a FastAPI application designed to process images with mathe
 - [Environment Variables](#environment-variables)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Technologies
 This project utilizes the following technologies:
